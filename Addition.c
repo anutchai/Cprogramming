@@ -18,6 +18,8 @@ void main(){
     total = num1 + num2;
     printf("Result is %d",total);
 
+    printf("Anutchai Chutipascharoen");
+
 // ------------- สิ้นสุดโปรแกรมบวกเลข -----------------//
 
 }
