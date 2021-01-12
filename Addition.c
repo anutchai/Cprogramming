@@ -21,6 +21,8 @@ void main(){
     printf("Anutchai Chutipascharoen");
     printf("M");
 
+    printf("Programmer");
+
 // ------------- สิ้นสุดโปรแกรมบวกเลข -----------------//
 
 }
