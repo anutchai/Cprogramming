@@ -19,6 +19,7 @@ void main(){
     printf("Result is %d",total);
 
     printf("Anutchai Chutipascharoen");
+    printf("M");
 
 // ------------- สิ้นสุดโปรแกรมบวกเลข -----------------//
 
