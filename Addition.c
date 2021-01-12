@@ -19,7 +19,7 @@ void main(){
     printf("Result is %d",total);
 
     printf("Anutchai Chutipascharoen");
-    printf("M");
+    printf("MMMMMMMMMMM");
 
     printf("Programmer");
 
