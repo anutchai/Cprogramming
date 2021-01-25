@@ -1,14 +1,5 @@
 #include <stdio.h>
-// ส่วนหัวสำหรับดึง Library(1)
-// การกด ctrl + / คือการใส่คอมเม้รต์แบบเร็ส short cut key
-
-//ส่วน function หลัก (2)
-int main()
-{
-    /* 
-        ส่วนคำสั่งการทำงาน (3)
-        printf คือ ฟังก์ชั่นที่ไว้สำหรับแสดงผลทางหน้าจอ
-    */
-    // วิธีการจัดชุดคำสั่งให้สวย ให้ shift + alt + f   
-    // การเปิด Terminal ให้กด ctrl + j 
+void main(){
+	printf("Hello Worlds");
+	// getch();
 }
