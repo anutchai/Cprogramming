@@ -11,8 +11,9 @@ void main(){
     for(int i = 0 ; i < 3 ; i++){
 
         for(int j = 0 ; j < 3 ; j++){
+            if(num[i][j] % 3 == 0){
             printf("%d ", num[i][j]);
-
+            }
         }
         printf("\n");
     }

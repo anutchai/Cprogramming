@@ -8,6 +8,10 @@ void siri(int age, char name[]) {
 
 void main (void) {
 
+    int false = 10;
+
+    int _1;
+
     siri(29 , "Anutchai");
 
 }
