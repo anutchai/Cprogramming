@@ -19,7 +19,11 @@ int main()
 
     printf("Displaying:\n");
     printf("Age: %d\n", personPtr->age);
-    printf("weight: %f", personPtr->weight);
+    printf("weight: %f \n", personPtr->weight);
+
+    printf("Displaying:\n");
+    printf("weight: %d \n", person1.age);
+    printf("weight: %f \n", person1.weight);
 
     return 0;
 }
