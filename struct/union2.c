@@ -1,12 +1,11 @@
 #include <stdio.h>
 #include <string.h>
- 
 union Data {
     float salary;
     int workerNo;
     char str[20];
 }data;
- 
+
 int main( ) {
     // data.salary = 10;
     data.workerNo = 220.5;
@@ -18,3 +17,4 @@ int main( ) {
 
     return 0;
 }
+
