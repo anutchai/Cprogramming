@@ -2,18 +2,18 @@
 
 int main () {
 
-   int  var = 20;   /* ค่าจริง */
-   int  *ip;        /* ตัวแปร pointer */
+   int var = 20+3;
+   
+   int *ip;        
 
-   ip = &var;  /* เก็บค่าที่อยู่*/
+   ip = &var; 
 
-   printf("Address of var variable: %p\n", &var  );
+   printf("Result 1: %p\n", &var  );
 
-   /* address stored in pointer variable */
-   printf("Address stored in ip variable: %p\n", ip );
+   printf("Result 2: %p\n", ip );
 
-   /* access the value using the pointer */
-   printf("Value of *ip variable: %d\n", *ip );
+   printf("Result 3: %d\n", *ip );
 
    return 0;
+
 }
